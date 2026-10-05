@@ -1,4 +1,4 @@
-LivePhoto-Enhancer：从实况照片视频中提取并融合清晰画面
+LivePhoto-Enhancer：从实况照片视频中提取并融合清晰画面 (与codex一同完成)
 
 2026 年物光创新实验室招新作品 · 齐思铭 · 光电信息科学与工程 2026 级  
 项目仓库：[shenren676/LivePhoto-Enhancer](https://github.com/shenren676/LivePhoto-Enhancer)
